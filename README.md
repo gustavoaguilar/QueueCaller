@@ -11,7 +11,7 @@ it, with the functionality of beeping and blinking. You can see a demonstration 
 The materials used are:
 
 * Arduino Uno Rev 3
-* 7Seg Display with 4 digits - SH...
+* 7Seg Display with 4 digits - SH5461AS
 * MAX7219 LED Driver
 * Buzzer
 * 22K Resistor
